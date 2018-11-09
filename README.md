@@ -23,4 +23,10 @@ Does anyone of ERC20 token developers believe that users will never make such mi
 approve + transferFrom mechanism is potentially insecure. Re-approval attack. approve + transferFrom mechanism allows double spents.
 This is not relevant unless there will be a possibility to create custom token-exchanges like Bancor token changer.
 
-A possible attack is described here https://drive.google.com/file/d/0ByMtMw2hul0EN3NCaVFHSFdxRzA/view
+A possible attack is described here https://drive.google.com/file/d/0ByMtMw2hul0EN3NCaVFHSFdxRzA/view   
+
+
+The Most Typical Mistakes In Smart Contracts - Based On L4A Solidity Audits
+https://www.l4a-soft.com/blog/post/most-typical-mistakes-smart-contracts-based-l4a-solidity-audits
+
+
