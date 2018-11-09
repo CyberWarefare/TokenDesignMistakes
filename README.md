@@ -1,4 +1,4 @@
-# tokendesign - main token design mistakes
+# Tokendesign - Main token design mistakes
 Main issues related to ERC20 standard tokens. ERC20 tokens have two critical issues that are already causing money losses. They are: 
 
 Lack of transaction handling. 
